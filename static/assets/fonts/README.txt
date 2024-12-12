@@ -1,22 +1,19 @@
-Red Hat Text Variable Font
-==========================
+Plus Jakarta Sans Variable Font
+===============================
 
-This download contains Red Hat Text as both variable fonts and static fonts.
+This download contains Plus Jakarta Sans as both variable fonts and static fonts.
 
-Red Hat Text is a variable font with this axis:
+Plus Jakarta Sans is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  RedHatText-VariableFont_wght.ttf
-  RedHatText-Italic-VariableFont_wght.ttf
+  PlusJakartaSans-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Red Hat Text:
-
-  static/RedHatText-Regular.ttf
-  static/RedHatText-SemiBold.ttf
-  static/RedHatText-Bold.ttf
+in those cases you can use the static font files for Plus Jakarta Sans:
+  static/PlusJakartaSans-Medium.ttf
+  static/PlusJakartaSans-ExtraBold.ttf
 
 Get started
 -----------
